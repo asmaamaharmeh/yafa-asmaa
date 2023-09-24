@@ -1,0 +1,17 @@
+
+
+$ git config --global user.name "asmaamaharmeh"
+
+$ git config --global user.email "201058@ppu.edu.ps"
+
+$ git clone https://github.com/yafa-jawabreh21/yafa-asmaa
+
+$ git init
+
+$ git remote -v
+
+$ git push -u origin master
+
+$ git add asmaa.txt
+
+$ git commit –a –m "new file"
